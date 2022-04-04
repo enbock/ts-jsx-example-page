@@ -14,7 +14,7 @@
   "devDependencies": {
     "@testing-library/dom": "^8.12.0",
     "@testing-library/jest-dom": "^5.16.3",
-    "@enbock/ts-jsx": "^0.1.0",
+    "@enbock/ts-jsx": "^0.1.0-dev3",
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
     "jest": "^27.5.1",
